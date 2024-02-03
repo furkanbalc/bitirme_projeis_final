@@ -1,0 +1,62 @@
+name: bende_fazla
+description: My graduate project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0-262.1.beta <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Utility
+  lottie: ^2.6.0
+  shimmer: ^3.0.0
+  carousel_slider: ^4.2.1
+  smooth_page_indicator: ^1.1.0
+  mask_text_input_formatter: ^2.7.0
+
+  # Firebase
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  firebase_storage: ^11.5.6
+  cloud_firestore: ^4.13.6
+
+  # Icons
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.7.0
+  
+  # State Management
+  provider: ^6.1.1
+
+  # Storage
+  shared_preferences: ^2.2.2
+
+  # Core
+  intl: ^0.19.0
+  image_picker: ^1.0.5
+  photo_manager: ^2.8.1
+  flutter_native_splash: ^2.3.7
+  connectivity_plus: ^5.0.2
+
+  # Maps
+  google_maps_flutter: ^2.5.3
+  geolocator: ^10.1.0
+  geocoding: ^2.1.1
+  http: ^1.1.0
+  uuid: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/lotties/
+    - assets/gif/

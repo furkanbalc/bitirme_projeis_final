@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "400272318117",
+    "project_id": "fir-auth-a69ce",
+    "storage_bucket": "fir-auth-a69ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400272318117:android:37206aea161418a096774c",
+        "android_client_info": {
+          "package_name": "com.example.app_bende_fazla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400272318117-3ddo0ufku1milpa7tfshtqvo1hcl0khp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3ROkkFV6gfaiXg7FjUqaMN8IgVaxK3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400272318117-3ddo0ufku1milpa7tfshtqvo1hcl0khp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400272318117-4bt49ogr8kshl2chvnvruqtjg5c6d24k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bendeFazlaFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400272318117:android:d14c9c0a5762779d96774c",
+        "android_client_info": {
+          "package_name": "com.example.bende_fazla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400272318117-res6537gurofbqaios9og8f035s3tsls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bende_fazla",
+            "certificate_hash": "8e40300a7bf876fdd7b0b911d7daee1c0a5674c4"
+          }
+        },
+        {
+          "client_id": "400272318117-3ddo0ufku1milpa7tfshtqvo1hcl0khp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3ROkkFV6gfaiXg7FjUqaMN8IgVaxK3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400272318117-3ddo0ufku1milpa7tfshtqvo1hcl0khp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400272318117-4bt49ogr8kshl2chvnvruqtjg5c6d24k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bendeFazlaFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400272318117:android:856cf9cf5864cd4096774c",
+        "android_client_info": {
+          "package_name": "com.example.bende_fazla_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400272318117-3ddo0ufku1milpa7tfshtqvo1hcl0khp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3ROkkFV6gfaiXg7FjUqaMN8IgVaxK3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400272318117-3ddo0ufku1milpa7tfshtqvo1hcl0khp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400272318117-4bt49ogr8kshl2chvnvruqtjg5c6d24k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bendeFazlaFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
