@@ -1,16 +1,24 @@
-# bende_fazla
+Bende Fazla Bağış Uygulaması (Devam Ediyor)
 
-A new Flutter project.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- **Firebase Authentication:** Kullanıcı kaydı ve girişi için kullanıldı.
+- **Firebase Firestore:** Verileri veritabanında saklamak için kullanıldı.
+- **Firebase Storage:** Dosya depolama ihtiyaçları için kullanıldı.
+- **Flutter MVVM Mimarisine Bağlılık:** Projede MVVM (Model-View-ViewModel) mimarisine uyulmaya çalışıldı, bu da kodun düzenli ve yönetilebilir olmasını sağlar.
+- **State Management:** Vanilla (temel) state yönetimi ve ağırlıklı olarak Provider kullanıldı. Bu, uygulama durumunu yönetmek için tercih edilen yöntemlerden bazılarıdır.
+## Kullanılan Paketler
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- `firebase_core` - Firebase çekirdek paketi.
+- `firebase_auth` - Kullanıcı yetkilendirme işlemleri için.
+- `cloud_firestore` - Firestore veritabanı işlemleri için.
+- `firebase_storage` - Firebase Cloud Storage kullanımı için.
+- `shared_preferences` - Basit verilerin depolanması için.
+- `lottie` - Lottie animasyonları için.
+- `carousel_slider` - Carousel Slider kullanımı için.
+- `smooth_page_indicator` - Sayfa göstergesi için.
+- `iconsax` - İkonlar için.
+- `provider` - State yönetimi için.
+- `image_picker` - Resim seçimi için.
+- `photo_manager` - Fotoğraf yönetimi için.
